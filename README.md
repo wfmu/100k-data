@@ -7,7 +7,7 @@ creative purposes!
 ![100k Wavetables](wavetables.png)
 
 In the `wavetables` directory you will find a set of wavetables 
-created using the data in the `tracks.csv` file.
+created using the data from the first 100k tracks.
 
 The wavetables labeled "1024" are linearly interpolated from the 
 original data to be 1024 samples long, and the wavetables labeled "o" 
